@@ -2,6 +2,10 @@
 plone.behavior
 ==============
 
+.. image:: https://secure.travis-ci.org/pyrenees/plone.behavior.png
+   :target: http://travis-ci.org/pyrenees/plone.behavior
+
+
 This package provides support for **behaviors**.
 A behavior is a re-usable aspect of an object that can be enabled or disabled without changing the component registry.
 
